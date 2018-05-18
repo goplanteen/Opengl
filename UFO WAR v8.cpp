@@ -1,3 +1,9 @@
+
+/********* MOHAMMAD TANVIR ISLAM **********/
+/********* tanvieer@gmail.com **********/
+/********* fb.com/sanvieer **********/
+/********* Skype: tanvieeer@hotmail.com **********/
+
 #include <iostream>
 #include <math.h>
 #include <stdio.h>
@@ -12,7 +18,6 @@
         ( std::ostringstream() << std::dec << x ) ).str()
 
 using namespace std;
-
 #include <stdarg.h>                       // Header File For Variable Argument Routines   ( ADD )
 #include <gl\gl.h>                        // Header File For The OpenGL32 Library
 #include <gl\glu.h>                       // Header File For The GLu32 Library
